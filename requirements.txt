@@ -1,0 +1,9 @@
+plotly==5.8.0
+jupyter==1.0.0
+pandas==1.4.2
+scikit-learn==1.1.1
+imbalanced-learn==0.9.1
+seaborn==0.11.2
+numpy==1.22.4
+matplotlib==3.5.2
+xgboost==1.6.1
